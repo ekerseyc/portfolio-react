@@ -16,7 +16,7 @@ export default function About() {
           I am currently playing Final Fantasy XIV Online, Noble Fates, Animal Crossing: New Horizons, and Rune Factory 5.
         </p>
         <p>
-          I am currently reading <i>Code Girls: The Untold Story of the American Women Code Breakers of World War II</i> by Liza Mundy.
+          I am currently reading <i>Code Girls: The Untold Story of the American Women Code Breakers of World War II</i> by Liza Mundy and a large assortment of webcomics.
         </p>
         <span className="fs-2 me-4">
         <a href='.../.../components/images/resume.pdf' style={{textDecoration: 'none'}}><FaPaperclip /> Resume.pdf</a>
