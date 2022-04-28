@@ -6,19 +6,20 @@ export default function Contact() {
       <div className='container'>
       <h2>Contact Me</h2>
       <p>
-        Please use one of the social media links below to contact me. Thanks!
+        Please use the form or one of the social media links below to contact me. Thanks!
       </p>
-        <ul>
-          <li>
-        <a href="http://linkedin.com/in/ekerseyc" target="_blank" rel="noreferrer">LinkedIn</a>
-          </li>
-          <li>
-        <a href="http://github.com/ekerseyc" target="_blank" rel="noreferrer">Github</a>
-          </li>
-          <li>
-        <a href="http://twitter.com/eckcode" target="_blank" rel="noreferrer">Twitter</a>
-          </li>
-        </ul>
+      <form>
+  <div className="form-group">
+    <label for="InputEmail">Email address</label>
+    <input type="email" className="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email"></input>
+    <small id="emailHelp" className="form-text text-muted">I'll never share your email with anyone else.</small>
+  </div>
+  <div className="form-group">
+    <label for="TextArea">What's Up?</label>
+    <textarea className="form-control" id="TextArea" rows="3"></textarea>
+  </div>
+  <button style={{marginTop: '5px'}} type="submit" className="btn btn-primary">Submit</button>
+</form>
         </div>
     </div>
   );

@@ -5,9 +5,7 @@ import { FaTwitter } from 'react-icons/fa';
 
 const styles = {
   footer: {
-    position: "fixed",
-    bottom: 0,
-    height: "100px",
+    backgroundColor: "white",
   }
 }
 
@@ -26,7 +24,7 @@ export default function Footer() {
             <span className="fs-2 me-4">
               <a className="col-12 text-decoration-none text-primary" href="https://twitter.com/eckcode"><FaTwitter /></a>
             </span>
-   
+
           </div>
 
         </div>
