@@ -7,7 +7,7 @@ export default function About() {
       <div className='container'>
         <h2>About</h2>
         <p>
-          I'm a 30 something year old living in West Virginia. I graduated from West Virginia University with a degree in International Studies. Using that degree, I taught English as a Foreign Language in South Korea for four years. Due to COVID-19, I moved back to the USA and started pursuing a passion I've had since middle school: web development. Web Development has changed a lot since I last actively coded in university, so I am enjoying learning all the new languages and techniques in a full stack web development bootcamp.
+          I graduated from West Virginia University with a degree in International Studies. Using that degree, I taught English as a Foreign Language in South Korea for four years. Due to COVID-19, I moved back to the USA and started pursuing a passion I've had since middle school: web development. Web Development has changed a lot since I last actively coded in university, so I am enjoying learning all the new languages and techniques in a full stack web development bootcamp.
         </p>
         <p>
           My current hobbies are travelling, <a href="http://postcrossing.com/user/dpahfl" target="_blank" rel="noopener noreferrer">postcard collecting</a>, playing video games, and reading.
