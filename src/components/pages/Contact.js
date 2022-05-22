@@ -19,7 +19,7 @@ export default function Contact() {
     <textarea className="form-control" id="TextArea" rows="3"></textarea>
   </div>
   <button style={{marginTop: '5px'}} type="submit" className="btn btn-primary">Submit</button>
-</form> */}
+</form> */} 
         </div>
     </div>
   );
