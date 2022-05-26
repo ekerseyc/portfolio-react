@@ -12,7 +12,7 @@ export default function Contact() {
   <div className="form-group">
     <label for="InputEmail">Email address</label>
     <input type="email" className="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email"></input>
-    <small id="emailHelp" className="form-text text-muted">I'll never share your email with anyone else.</small>
+    <small id="emailHelp" className="form-text text-muted">asdasdas I'll never share your email with anyone else.</small>
   </div>
   <div className="form-group">
     <label for="TextArea">What's Up?</label>
